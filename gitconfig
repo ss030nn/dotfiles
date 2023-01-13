@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 성은팡팡2132@naver.com
+	name = Hong Sungeun
